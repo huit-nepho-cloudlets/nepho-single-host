@@ -1,5 +1,5 @@
 --- # vagrant-single-host
-summary: A single local Vagrant CentOS 6 box
+summary: A single local Vagrant CentOS 6 box, configured via puppet
 description: >
   This simple example creates a single local CentOS 6 box which bootstraps
   Puppet, and performs a few minor configuration actions.
